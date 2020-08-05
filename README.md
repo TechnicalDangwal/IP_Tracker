@@ -10,4 +10,4 @@
 
 4.Last step run this script using this command `python ip_tracker.py`.
 
-* for more information visit my youtube channel Technical Dangwal *
+ *for more information visit my youtube channel Technical Dangwal*
